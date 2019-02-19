@@ -1,5 +1,6 @@
 # README
 [![Build Status](https://travis-ci.org/mendozabree/mydiary-rails.svg?branch=develop)](https://travis-ci.org/mendozabree/mydiary-rails)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
